@@ -1,4 +1,4 @@
 ## 團隊成員
 
--weins_jo3jo3
--newyorallen
+- weins_jo3jo3
+- newyorallen
